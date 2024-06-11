@@ -67,7 +67,7 @@ zeebe-micronaut-client = "1.17.0"
 ktor = "2.3.11"
 jakarta-validation-api = "3.0.2"
 spring-boot-gradle-plugin = "3.3.0"
-spring-dependency-management-plugin = "1.1.4"
+spring-dependency-management-plugin = "1.1.5"
 micronaut-starter-aws-cdk = "4.3.7"
 spring-boot-starter-parent="3.3.0"
 
